@@ -1,9 +1,7 @@
- 
+### Hello World!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flovecats0202%2Fhit-counter&count_bg=%232B2D10&title_bg=%23CD1919&icon=lamborghini.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  <br>
- I am ...:hatching_chick:
- <br>
- :rainbow::milky_way: :ghost:
+ I am ...:hatching_chick::rainbow::milky_way: :ghost:
  <br>
 I’m currently learning ...html
 <!--
